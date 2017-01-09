@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingTop="5dp"
+    android:background="#000000"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="0dp"
+        android:id="@+id/userRank"
+        android:gravity="left"
+        android:textColor="#60d8ee"
+        android:layout_height="match_parent"
+        android:layout_weight="0.12"
+        android:paddingLeft="10dp"
+        android:paddingTop="15dp"
+        android:textSize="15sp"
+        />
+
+    <com.github.siyamed.shapeimageview.CircularImageView
+        android:layout_width="15dp"
+        android:layout_height="45dp"
+        android:layout_weight="0.11"
+        android:id="@+id/userImage"
+        android:paddingTop="15dp"
+        android:paddingRight="7dp"
+        android:paddingLeft="8dp"
+        android:paddingBottom="14dp"
+        app:siBorderWidth="2dp"
+        app:siBorderColor="#60d8ee"/>
+
+
+    <TextView
+        android:layout_width="0dp"
+        android:textColor="#60d8ee"
+        android:layout_height="match_parent"
+        android:id="@+id/userName"
+        android:gravity="center"
+        android:layout_weight="0.35"
+        android:paddingLeft="10dp"
+        android:paddingTop="15dp"
+        />
+
+    <TextView
+        android:layout_width="0dp"
+        android:textColor="#60d8ee"
+        android:gravity="center"
+        android:layout_height="match_parent"
+        android:layout_weight="0.42"
+        android:id="@+id/userScore"
+        android:paddingTop="15dp"
+        />
+
+</LinearLayout>

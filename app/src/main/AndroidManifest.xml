@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mec.mec.excel16">
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature android:glEsVersion="0x00020000" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+
+    <application
+        android:name="mec.mec.excel16.appcontroller"
+        android:allowBackup="true"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme2">
+        <receiver android:name="mec.mec.excel16.widget">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_info" />
+        </receiver>
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider521421648069197"
+            android:exported="true" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyDvS4JI8ouVnHH35Jh1k6RtUpjFqST77KY" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="mec.mec.excel16.SplashScreen"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mec.mec.excel16.Details"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="mec.mec.excel16.Home"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mec.mec.excel16.MainActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="mec.mec.excel16.tutorial"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="mec.mec.excel16.Shedule"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mec.mec.excel16.Map"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mec.mec.excel16.News"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="mec.mec.excel16.gallery"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mec.mec.excel16.about"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mec.mec.excel16.Events"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mec.mec.excel16.Talks"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="mec.mec.excel16.LeaderBoard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mec.mec.excel16.Initiatives"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mec.mec.excel16.FunZone"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mec.mec.excel16.proshow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mec.mec.excel16.newsfeedActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="mec.mec.excel16.exhibition"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mec.mec.excel16.exhibitions_view"
+            android:screenOrientation="portrait" />
+        <service
+            android:name=".MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

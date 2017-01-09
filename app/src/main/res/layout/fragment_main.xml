@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffff00"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:gravity="center"
+    tools:context="mec.mec.excel16.MainActivity">
+
+    <Button
+        android:id="@+id/btn_views"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Testing Buttons"
+        />
+
+    <Button
+        android:id="@+id/btn_fragments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Testing fragments"
+        android:layout_below="@+id/btn_views"
+        />
+
+</RelativeLayout>

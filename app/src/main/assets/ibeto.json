@@ -1,0 +1,69 @@
+{
+	"eventlist":[
+		{
+			
+			"name":"IBeTo",
+			"eventid":"61027011",
+			"description":"IBeTo or “Innovations for a Better Tomorrow” is the national level pursuit, hosted by Excel, the national annual techno managerial fest conducted by Govt. Model Engineering College, Kochi, for extraordinary innovative minds with ideas capable of aiding social upliftment through technology. Twenty most promising entries will receive first-rate technical guidance from eminent mentors to realize their project",
+			"image":"ibeto",
+			"eventformat":"IBeTo is an individual or team event. The maximum number of members in a team is 8.\n\n\nThe team members need not necessarily be from the same institution.",
+			"rules":[
+				"1. The teams can choose from any of the given problem statements or any other social issue.",
+				"2. The idea should be technology based, should have a positive impact on society and must be realizable as a project.",
+				"3. Ideas and abstracts can be from any streams of engineering. It can also encompass more than one stream.",
+				"4. There are no restrictions on the number of abstract entries per team.",
+				"5. The coordinators of the event reserve the right to take appropriate decisions in case of any issues/conflicts.",
+				"6. Decisions of the judges shall be final and binding.",
+				"7. The coordinators reserve the right to reject any entry.",
+				"8. Rules are subject to change at any point of time.",
+				"9. Participants may be undergraduates/postgraduates, or currently doing their course or professionals with an upper age limit of 30",
+				"10. Participants will have to submit the abstract of their idea.",
+				"11. The entries have to be original. Duplicated/copied ideas will not be considered.",
+				"12. Abstracts should not exceed 600 words  and must be as per specified format.",
+				"13. The abstracts form has to be filled, on or before April 25, 2016.",
+				"14. The coordinators are not responsible for incorrect or inaccurate entry information entered by the participants."
+			],
+			"contact":[
+				{
+					"name":"Fathima Nazrin",
+					"phone":"+91 9895 460 730"
+				},
+				{
+					"name":"Joseph Thachil",
+					"phone":"9946525909"
+				}
+			]
+		},
+		{
+			"name":"IBeToJr",
+			"eventid":"61027012",
+			"image":"ibetojunior",
+			"description":"Innovations for a Better Tomorrow, The Junior edition is that platform that you’ve always wanted, to make your mark on society and do your bit to help the world.For age is but a number and an idea is ageless.",
+			"eventformat":"It’s all pretty simple actually! All you need to do is: \n\ncome up with an ingenious idea; which shouldn’t be all that difficult being the little genius that you are ;)\n\n If your idea is one among the best projects to get selected, you get work on your project and exhibit it at Excel 2016, come this October!\n\n\nThe chance to have your project exhibited at the national level techno-managerial symposium, Excel 2016 which is to be held over 4 power packed days in October 2016.The best project will be rewarded with a prize money of INR 25,000! Now that’s something worth vying for!",
+			"rules":[
+				"1. The idea must be original, innovative, socially beneficial, and implementable as a project.",
+				"2. School students (Grade 8 and upwards), not more than 19 years old.",
+				"3. The maximum number of members in a team is 5. Cross-Institution teams are permitted.",
+				"4. The Google form should be filled on or before June 30th, 2016",
+				"5. The best teams will be selected, and these teams will have to implement their idea and develop their project, before Excel 2016.",
+				"6. The selected teams will be informed through telephone and e-mail.",
+				"7. Team Excel 2016 will not be responsible for any case in which shortlisted teams are unavailable or unreachable for contact at any point of time after announcement of results.",
+				"8. In order to complete their projects, selected teams will be provided with technical help / guidance by Team Excel 2016, if they so wish.",
+				"9. Projects are to be completed by September 2016 and all completed products will be exhibited at Excel 2016.",
+				"10. All completed projects will be awarded a Certificate of completion, authorized by supporting institutions, faculty and Team Excel 2016.",
+				"11. The best projects will be awarded prize money of INR 25,000.",
+				"12. Rules are liable to change, and teams will be informed of the same if any."
+			],
+			"contact":[
+				{
+					"name":"Fathima Nazrin",
+					"phone":"+91 9895 460 730"
+				},
+				{
+					"name":"Joseph Thachil",
+					"phone":"9946525909"
+				}
+			]
+		}
+	]
+}

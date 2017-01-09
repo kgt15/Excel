@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mec.mec.excel16.about">
+
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:paddingBottom="10dp"
+            android:layout_marginTop="0dp"
+            android:id="@+id/recyclerView1">
+
+        </android.support.v7.widget.RecyclerView>
+
+
+
+
+</FrameLayout>

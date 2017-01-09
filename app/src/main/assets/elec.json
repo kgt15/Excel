@@ -1,0 +1,142 @@
+{
+	"eventlist":[
+	{
+		"eventid":"61022011",
+		"eventformat":"Techathon aims to provide a venue for self-expression and creativity through technology. People with technical backgrounds (group of 3-5 members) come together, form teams around an idea, and collaboratively, try to code a unique solution.\n\n\nRound 1 : Prelims\n\nDuration: 30 minutes\nA preliminary screening test will be conducted to sieve out electronic master minds and top 10 teams will advance to the rapid fire round.10 groups will be shortlisted for the final round\n\n\nRound 2 : Techathon\n\nDuration: 7 hours.\nBuild your own prototype based on the materials we provide at the venue.\n\n\nRound 3 : Presentation\n\nDuration: 1 hour.\nYou will have to present your idea in front of panel of experts.",
+		"name":"Techathon",
+		"image":"techathon",
+		"description":"A chance to comprehend the substantial difference between “posting an idea” and “making an idea into a reality”. Teams are tasked with converting a simple concept into a finalized model using the necessary parts, technical prowess and of course - their team spirit.Hopefully you have the stamina to endure this marathon.",
+		"rules":[
+			"1. You are required to start your project from scratch after the commencement of the Techathon and work on it using the facilities and expertise available at the event.",
+			"2. Equipment - Will be provided at the venue",
+			"3. You are welcome to bring your own additional components if you foresee the need for it (no pre-assembled modules are allowed). We would like to preserve/replenish our equipment, so equipment provided by us is to be returned in good working condition after the event.",
+			"4. You are required to start your project from scratch after the commencement of the Techathon and work on it using the facilities and expertise available at the event.",
+			"5. Equipment - Will be provided at the venue",
+			"6. You are welcome to bring your own additional components if you foresee the need for it (no pre-assembled modules are allowed). We would like to preserve/replenish our equipment, so equipment provided by us is to be returned in good working condition after the event.",
+			"7. We would provide you with commonly used components and equipment that you may need for prototyping.",
+			"8. However, you will need to bring your own PERSONAL LAPTOPS, mobile phones and any  other devices with the necessary software. The Wi-Fi connection would be provided.",
+			"9. Cheating, recklessness and endangering others, disrespectful behavior, immoral acts, illegal acts, use of alcohol, tobacco and/or banned substances at the event, being under the influence during the event, etc. and any such activity is strictly not allowed and will lead to immediate disqualification.",
+			"10. Dropping out of the hackathon before the conclusion on Day 1 also leads to disqualification of the individual/team. All prizes won will be forfeited in such cases.",
+			"11. Disqualification includes, but is not limited to any or all of the above.",
+			"12. Organizers decision will be final in all such matters."
+		],
+		"contact":[
+			{
+				"name": "Bharathkumar N",
+				"phone": "9446740251"
+			},
+			{
+				"name": "Arjun K Shenoy",
+				"phone": "8129953172"
+			}
+		]
+	},
+	{
+		"eventid":"61022012",
+		"name": "Extrinsicity",
+		"description": "Design, debug, deconstruct, deliberate and deliver  those mind boggling circuits!This is the archetypal event for the Einsteins of electronics. It will test your grit, as hurdles of analyses and electronic circuit designs will be hurled at you.\n“The solution to every problem is another problem”",
+		"eventformat": "The event will be a team event, with each team having 2 or 3 members. It will be conducted over 5 rounds. The first round will be the prelims, followed by three elimination rounds and then the final round. The winners of each round will be decided on the basis of their successful completion of the task.\n\n\nRound 1 : Prelims\n\nContestants will be tested in the field of basic electronic circuits.The top 8 teams will progress to the next round.\n\n\nRound 2 : Circuit Marathon\n\nThe top 8 teams from the prelims will compete in this . In these stages, designing and debugging skills of the participants will be tested. Through the course of these 3 stages, 4 teams will be eliminated.\n\n\nRound 3 : Debugging Round\n\nThe top 4 teams of round two, contest in the final round. The contestants will be required to debug/Design an Analog/Digital circuit within the stipulated time. The team which debugs/designs the circuit first will be declared the winner. In case of tie or no output, performance of teams in the second round is analysed, on the basis of which the final decision will be made.",
+		"image":"extrincity",
+		"rules": [
+			"1. This will be a team event with each team having not more than three members.",
+			"2. All members of the team need not be from the same college.",
+			"3. All members are expected to exhibit their college ID and Excel ID cards.",
+			"4. All items required for the event will be provided by the coordinators.",
+			"5. Use of mobile phone is strictly prohibited.",
+			"6. Decision of coordinators will be final.",
+			"7. Excel team will not bear responsibility for any loss of property, injury or delay caused by participants during the event.",
+			"8. Teams violating the above rules will be suspended immediately."
+		],
+		"contact":[
+			{
+				"name": "Paul V. Sebastian",
+				"phone": "9495982280"
+			},
+			{
+				"name": "Twinkle sijo",
+				"phone": "9400166919"
+			}
+		]
+	},
+	{
+		"eventid":"61022013",
+		"name": "The Hurtlocker",
+		"description":"How fast can you defuse a BOMB? Get ready for a battle against time as you apply your skills to disarm a live ticking bomb! Prove your mettle and emerge victorious to save the world . \nCrack the “The Hurt Locker” challenge and experience what it feels like  to be a part of the bomb disposal squad.",
+		"eventformat": "A comprehensive digital event that tests both the knowledge of its participants and the swiftness of their execution, over different rounds. The contestants are required to analyze the circuit, crack the code and defuse a ticking time bomb before it blows.\n\n\nRound 1 : prelims\n\n Duration:30 minutes\nA preliminary screening test will be conducted to sieve out electronic masterminds and the top 10 teams will advance to the rapid fire round.\n\n\nRound 2 : Rapid fire round\n\nDuration: 15 minutes\nTen teams selected after the preliminary screening test will compete against each other in the rapid fire round. In this round the Contestants will be given a total of ten questions at different intervals of time and the participants have to solve each question in the allotted time. Top 7 teams  from this round will walk into the circuit analysis round.\n\n\nRound 3 : Circuit Analysis round\n\nDuration: 45 minutes\nThe top 7 teams chosen from the rapid fire round will take part in the Circuit Analysis round. Six teams from this round will proceed to the next stage.\n\n\nRound 4 : Debugging round\n\nDuration: 60 minutes\nIn this round the selected six teams will have to debug the digital circuit based on the clues given to them. Top four teams advance to the last round. If teams do not succeed in getting the perfect output, decision will be based on the extent up to which the bug was removed.\n\n\nRound 5 : Defuse round\n\nDuration: 60 minutes\nThe final four teams will compete with each other in the last round. In this round the participants will have to defuse the bomb",
+		"image":"image1",
+		"rules":[
+			"1. A team may have a maximum of three members.",
+			"2. It is not mandatory that all the members of the team be the students of the same institution.",
+			"3. All participants should present their College ID cards.",
+			"4. No competitive aids must be brought to college. Calculators are prohibited.",
+			"5. Use of mobile phone is prohibited during the event.",
+			"6. Any team not abiding by the rules shall be disqualified.",
+			"7. Datasheet and other component details will be provided, no external materials are allowed during the event.",
+			"8. In case of no output from any team or tie, judgement shall be made based on a viva-voce by the judges.",
+			"9. Decision of the judges shall be final.",
+			"10. Rules are subject to change at any time."
+
+		],
+		"contact":[
+			{
+				"name":"Noel Joseph",
+				"phone":"8129082745"
+			},
+			{
+				"name":"Anil Joby",
+				"phone":"8281031622"
+			}
+		]
+	},
+	{
+		"eventid":"61022014",
+		"name":"LifeLine",
+		"description":"What is the value of a human life? Well it’s time to play god as you rectify and debug malfunctioning medical devices and heroically save lives at stake!Pull yourself together and act before the patient flat lines. Scrutinise the workings of an impaired medical instrument and beat the clock to save a soul. An exclusive event that allows you to showcase your debugging skills with the exaltation of being a hero.",
+		"eventformat":"Prelims:\n\n1. This round consists of a 30 minute MCQ test.\n2. The test will contain questions from electronics and biomed.\n3. Ten teams selected from this round will proceed to the next round.\n\n\nSemiFinals:\n\nFollowing your instincts is crucial when you are dealing with a life waiting to be saved and all you have is limited time. This round tests your ability to make decisions and  execute them in the given time.\n\n\nFinals:\n\nCareful what you do, because one mistake from the biomedical engineer, it’s not an IC burnt, but a life lost.Small innovative designs from you today could be the technology of tomorrow. This round brings out the scientist in you.\n\n1. In this round, you will be asked to design and/or implement a circuit which will be the solution for a real life problem.\n2. Winner will be selected depending on the perfection and implementation of the circuit.",
+		"image":"lifeline",
+		"rules":[
+			"1. The competition is held for teams of 2 members.",
+			"2. Cross-college teams ARE allowed.",
+			"3. Failing to save the patient in given time results in immediate elimination.",
+			"4. The coordinators of the event reserve the right to take appropriate decisions in case of any issues/conflicts.",
+			"5. Rules are subject to change at any point in time. All rules will be explained at the event as well",
+			"6. The decision of the judges would be final and binding.",
+			"7. Base knowledge in proteus simulation will be an advantage."
+		],
+		"contact":[
+			{
+				"name":"Deepak Krishnan",
+				"phone":"8891329737"
+			},
+			{
+				"name":"Anjaly Ajayakumar",
+				"phone":"9497274718"
+			}
+		]
+	},
+	{
+		"eventid":"61022015",
+		"description":"“My circumstances do not make me what I am, They reveal who I have chosen to be”\n\t\t\t\t\t\t\t\t\t-Wayne Dyer.\n\nAn electronic epic of all proportions! A gripping story based on bomb defusing,treasure hunt and many more challenges unfold and hopefully you haven’t nibbled off your nails completely when we have  reached the climax. Weave the threads of technology and life together, and bring out the dormant engineer within you. As you beat your brains out trying to solve real life challenges to be the master of circumstances!",
+		"name":"Circumstance",
+		"eventformat":"\n will be updated soon",
+		"rules":[
+			"\nWill be updated soon"
+		],
+		"image":"circuimstance",
+		"contact":[
+			{
+				"name":"Navnit Lal",
+				"phone": "8714407566"		
+			},
+			{
+				"name": "Paul V Sebastian",
+				"phone": "9495982280"
+			},
+			{
+				"name":"Rahana M Ibrahim",
+				"phone":"9539018654"
+			}
+		]
+	}
+]
+}

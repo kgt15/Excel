@@ -1,0 +1,14 @@
+{
+	"eventlist":[
+	{	
+		"name":"Neural Networks",
+		"image":"neuralnetwork",
+		"description":"\n\n\n->Getting started with python\n\n->Variables, functions and control structure\n\n->Neural network analysis and machine learning\n\n->Neurolab python framework\n\n->Working with theano framework\n\n->Backpropogation algorithm\n\n->FANNTool,NeuralView and FANExplorer"
+	},
+	{
+		"name":"Data Mining",
+		"image":"dataminng",
+		"description":"\n\n\n->Explains how data mining algorithms work\n\n->Helps you select appropriate approaches to particular problems\n\n->How to compare and evaluate the results of different techniques\n\n->Shows you how to use the WEKA machine learning workbench\n\n->Covers performance improvement techniques, including input processing and combining output from different methods"
+	}
+]
+}

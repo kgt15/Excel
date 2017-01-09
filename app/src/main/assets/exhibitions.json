@@ -1,0 +1,14 @@
+{
+	"eventlist":[
+	{
+		"name":"TechZone",
+		"description":"With such enormous events going about, it’s easy to feel overwhelmed. Techzone offers some relief with small technical games, short treasure hunts etc and can act as a much needed appetizer or dessert.\nSponsored by Geogit technologies",
+		"image":"techzone"
+	},
+	{
+		"name":"Mec Labs",
+		"description":"Engineering isn’t exclusively limited to listening to lectures and jotting down notes. Get ready to dirty your hands and build projects with assistance from knowledgeable mentors. Effectuate your ideas into reality and get the platform to exhibit your project.An event exclusively for second year MECians.",
+		"image":"meclabs"
+	}
+]
+}

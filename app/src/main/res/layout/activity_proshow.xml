@@ -1,0 +1,266 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@color/tabbg">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                >
+                <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:layout_gravity="center"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/pro5" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/year"
+                    android:text="2015"
+                    android:textColor="#fff"
+                    android:layout_margin="20dp"
+                    android:textSize="45dp"
+                    android:paddingBottom="10dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"/>
+            </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TRicotri"
+                android:id="@+id/proname"
+                android:textColor="#fff"
+
+                android:gravity="left"
+                android:textSize="20dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginBottom="15dp"
+                >
+
+
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:layout_gravity="center"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/pro1" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2014"
+                    android:textColor="#fff"
+                    android:layout_margin="20dp"
+                    android:textSize="45dp"
+                    android:paddingBottom="10dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"/>
+            </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Vidwan"
+                android:id="@+id/proname1"
+                android:textColor="#fff"
+
+                android:gravity="left"
+                android:textSize="20dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:layout_marginBottom="15dp"
+                >
+
+
+            </RelativeLayout> <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                android:src="@drawable/pro2" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2014"
+                android:textColor="#fff"
+                android:layout_margin="20dp"
+                android:textSize="45dp"
+                android:paddingBottom="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Baiju Dharmajan"
+                android:textColor="#fff"
+
+                android:id="@+id/proname3"
+                android:gravity="left"
+                android:textSize="20dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:layout_marginBottom="15dp"
+                >
+
+
+            </RelativeLayout>
+            <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                android:src="@drawable/pro3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2013"
+                android:textColor="#fff"
+                android:layout_margin="20dp"
+                android:textSize="45dp"
+                android:paddingBottom="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Thaikkudam Bridge"
+                android:id="@+id/proname4"
+                android:textColor="#fff"
+
+                android:gravity="left"
+                android:textSize="20dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:layout_marginBottom="15dp"
+                >
+
+
+            </RelativeLayout>
+            <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                android:src="@drawable/pro4" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2012"
+                android:textColor="#fff"
+                android:layout_margin="20dp"
+                android:textSize="45dp"
+                android:paddingBottom="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Naresh Iyer"
+                android:id="@+id/proname5"
+                android:textColor="#fff"
+
+                android:gravity="left"
+                android:textSize="20dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:layout_marginBottom="15dp"
+                >
+
+
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:layout_gravity="center"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/pro6" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2012"
+                    android:textColor="#fff"
+                    android:layout_margin="20dp"
+                    android:textSize="45dp"
+                    android:paddingBottom="10dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"/>
+            </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Avial"
+                android:id="@+id/proname6"
+                android:textColor="#fff"
+
+                android:gravity="left"
+                android:textSize="20dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:layout_marginBottom="15dp"
+                >
+
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

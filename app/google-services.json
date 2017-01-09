@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "590997529627",
+    "firebase_url": "https://excel-2016-f0ecc.firebaseio.com",
+    "project_id": "excel-2016-f0ecc",
+    "storage_bucket": "excel-2016-f0ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590997529627:android:b84dc9d2775e2d2d",
+        "android_client_info": {
+          "package_name": "mec.mec.excel16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590997529627-pp4qdrhbfenl2rnfi67j7s1i0h4itkpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mec.mec.excel16",
+            "certificate_hash": "8922A04EDB3CAFC47A1880FBE5A68D2B4CE834EB"
+          }
+        },
+        {
+          "client_id": "590997529627-u2p2nf8fmlekf9jjjnr0eh1ma3715q04.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "590997529627-2muc22n70l637lsjacu0ulkdnprq0a4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvS4JI8ouVnHH35Jh1k6RtUpjFqST77KY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590997529627-u2p2nf8fmlekf9jjjnr0eh1ma3715q04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

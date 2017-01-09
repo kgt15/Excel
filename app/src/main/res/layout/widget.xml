@@ -1,0 +1,234 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp" android:layout_height="160dp"
+    android:padding="8dp"
+    android:weightSum="2"
+    android:id="@+id/linearroot"
+    android:background="@drawable/widget_shape"
+    android:orientation="horizontal"
+    >
+
+    <LinearLayout
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <ImageView
+            android:paddingTop="10dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/logoint"
+            android:src="@drawable/logo"
+            android:cropToPadding="true" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:cropToPadding="true"
+                android:src="@drawable/ref"
+                android:id="@+id/ref"
+                android:layout_gravity="center"
+                android:layout_height="25dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/cont"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_weight="1"
+        android:weightSum="8"
+        android:background="@drawable/one"
+        android:padding="6dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:weightSum="4"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:visibility="invisible"/>
+
+            <ImageView
+                android:src="@drawable/head"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:cropToPadding="false"
+                android:paddingLeft="11dp"
+                android:paddingBottom="8dp"
+                android:id="@+id/seven" />
+
+            <ImageView
+                android:src="@drawable/circ"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:cropToPadding="true"
+                android:paddingLeft="11dp"
+                android:paddingTop="7dp"
+                android:id="@+id/six" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:visibility="invisible" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:weightSum="8">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                android:weightSum="2">
+
+                <ImageView
+                    android:src="@drawable/blac"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:cropToPadding="true"
+                    android:paddingTop="9dp"
+                    android:paddingRight="2dp"
+                    android:id="@+id/eight" />
+
+                <ImageView
+                    android:src="@drawable/krypto"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:cropToPadding="true"
+                    android:paddingTop="9dp"
+                    android:paddingLeft="2dp"
+                    android:id="@+id/one" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="5dp"
+                android:gravity="center"
+                android:weightSum="3"
+                android:orientation="vertical"
+                android:layout_weight="2">
+
+                <TextView
+                    android:layout_weight="2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:paddingTop="10dp"
+                    android:text="Dalal Bull"
+                    android:textColor="#99000000"
+                    android:textSize="8dp"
+                    android:id="@+id/event" />
+
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="55dp"
+                    android:gravity="center"
+                    android:text="Na"
+                    android:paddingBottom="11dp"
+                    android:textColor="#99000000"
+                    android:textSize="23dp"
+                    android:id="@+id/rank" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                android:weightSum="2">
+
+                <ImageView
+                    android:src="@drawable/inc"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:cropToPadding="true"
+                    android:paddingBottom="9dp"
+                    android:paddingRight="2dp"
+                    android:id="@+id/five" />
+
+                <ImageView
+                    android:src="@drawable/stoc"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:cropToPadding="true"
+                    android:paddingBottom="9dp"
+                    android:paddingLeft="3dp"
+                    android:id="@+id/four" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:weightSum="4"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:src="@drawable/hack"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:cropToPadding="true"
+                android:paddingRight="11dp"
+                android:paddingBottom="8dp"
+                android:id="@+id/two" />
+
+            <ImageView
+                android:src="@drawable/techg"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:cropToPadding="true"
+                android:paddingRight="11dp"
+                android:paddingTop="6dp"
+                android:id="@+id/three"
+                android:paddingBottom="2dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:visibility="invisible" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

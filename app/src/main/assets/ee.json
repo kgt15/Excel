@@ -1,0 +1,52 @@
+{
+	"eventlist":[
+	{
+		"eventid":"61023011",
+		"description":"An event that does justice to the quote “Innovation distinguishes between leader and follower”. Teams will be asked to assemble a gadget based on a problem statement with limited resources and time to test their skills in the mechanical and electrical fields, bringing out the engineer in them. After all, Engineering is nothing but Imagineering at its best.",
+		"name":"Ultimate Engineer",
+		"image":"ultimate",
+		"eventformat":"Round 1:\n\nThe prelims will be both online and offline consisting of 25 MCQ questions and a subjective question. Top 10 contestants will be selected for the next round.Duration will 30 minutes for the MCQ and 15 minutes for the subjective question.\n\n\nRound 2:\n\nThe selected participants will be grouped into 5 teams of 2 members each. They are supposed to find a solution to the social problem given to them and design a prototype for the same.\n\n\nRound 3:\n\nThe final round is the presentation round. The teams are supposed to present their problem and the solution they have designed for the same.\nPresentation time : 20 minutes\nContact Mail: ultimateengineer@excelmec.org.com",
+		"contact":[
+						{
+							"name":"B.Paramesh",
+							"phone":"9633594263"
+						},
+						{
+							"name":"Antony jose",
+							"phone":"9400617007"
+						},
+						{
+							"name":"Aswini Asokan",
+							"phone":"9495241572"
+						}
+					],
+		"rules":["1. Participants can use their laptops during the entire duration of the event.","2. Decision of the judges will be final and binding.","3. Excel team reserves the right to take final decisions in case of any dispute.","4. Excel team is not responsible for any loss of property, injury and delays caused by the participants during the event.","5. Contestants should present their college ID cards.","6.Participants should present their Excel ID at the event"
+				]
+
+	},
+	{
+		"eventid":"61023012",
+		"description":"Don’t you just hate it when the earphone wires get tangled up? Well if that wasn’t a big enough challenge, use your electrical prowess to follow in the footsteps of Nicola Tesla and find fruitful solutions for all those pesky wiring problems. Get ready to lighten up and switch on those thinking bulbs and enlighten the  world with the sparks of your wiring knowledge!",
+		"name":"Lumiere",
+		"image":"lumiere",
+		"eventformat":"Each team will have 3 members.\n\n\nPrelims(Round 1):\n\nThere will be 30 minutes to answer 25 questions with the top 12 teams moving on to the next round\n\n\nRound 2 :\n\nThe second round is designed to test the extent of the team's knowledge of electrical entities and components.The top 9 teams successfully completing this round move forward to round three.\n\n\nRound 3 : Designing\n\nIn the third round, the participants are given 3 electric circuit problems that needs to be solved in the best possible way. The correction circuits designed by the teams are evaluated and the top 6 teams progress to round four.\n\n\nRound 4 : Implementation\n\nIn this round, the five finalists will have to wire up the circuit given to them in the third round in a conduit system within the allotted time. The circuits are tested for working and efficiency. Prizes are awarded based on cumulative performance of rounds 3 and 4.",
+		"contact":[
+						{
+							"name":"B Joemon Joseph",
+							"phone":"9497639022"
+						},
+						{
+							"name":"Saranya S Nair",
+							"phone":"8547512420"
+						},
+						{
+							"name":"B.Paramesh",
+							"phone":"963359426"
+						}
+					],
+		"rules":["1. It is a Team event with 3 members per team.","2. Cross college teams are allowed.","3. All participants must have an EXCEL ID. Separate registration is not required for this event.","4. The event comprises of 4 rounds.","Excel team reserves the right to take final decisions in case of any dispute.","5. Contestants should present their college ID cards."
+				]
+
+	}
+	]
+}

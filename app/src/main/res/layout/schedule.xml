@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/cordlayout"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:flipview="http://schemas.android.com/apk/res-auto"
+
+    android:focusableInTouchMode="true"
+
+    android:background="#19242a">
+
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbarlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:expandedTitleMarginEnd="10dp"
+            app:expandedTitleMarginStart="12dp"
+            app:layout_scrollFlags="scroll|enterAlwaysCollapsed">
+
+            <mec.mec.excel16.FlipView
+                android:layout_width="match_parent"
+                android:layout_height="240sp"
+                android:id="@+id/flip_view"
+                app:layout_collapseMode="parallax"
+                android:background="#ffffff"
+                flipview:orientationq="horizontal"
+                tools:context="mec.mec.excel16.MainActivity">
+
+
+
+
+            </mec.mec.excel16.FlipView>
+
+
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:scrollbars="vertical"
+        android:id="@+id/scroll">
+
+
+    </android.support.v4.widget.NestedScrollView>
+
+</android.support.design.widget.CoordinatorLayout>

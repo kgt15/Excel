@@ -1,0 +1,68 @@
+{
+	"eventlist":[
+	{
+		"eventid":"61025011",
+		"description":"A hunt only for those well versed in the areas of Electrical and Electronics and Communication Engineering. Sail the stormy seas to fend off a maze of technical obstacles and those fortunate enough to intuit and figure out the clues to the puzzles may have a chance to hit the booty!Venture ahead along the road not taken to discover the hidden treasure.Untangle the complex knots with your technical knowledge and pave your path to victory.",
+		"name":"Elequest",
+		"image":"techtreasurehunt",
+		"eventformat":"Round 1(Prelims) : \n30 MCQ questions to be answered in 30 minutes\n\n\nRound 2 :\n\nThe top 6 teams from the first round are selected for 4 gruelling rounds of quizzing from where only the 4 toughest teams shall live to fight the next round.\n\n\nRound 3 :\n\nAll 4 teams will be provided with a clue for the location where the task is to be performed and after completing it they get the next clue and this continue until they reach THE TREASURE .",
+		"contact":[
+						{
+							"name":"Unnikrishnan.M",
+							"phone":"9446423011"
+						},
+						{
+							"name":"Merin George",
+							"phone":"773655186"
+						},
+						{
+							"name":"B.Paramesh",
+							"phone":"9633594263"
+						}
+					],
+		"rules":["A team of 3 is required and may not exceed 4.","The decision of the organizers will be final.","Rules are subject to change at any point of time.Participants will be duly notified of any change.","Cross college teams are allowed.","Contestants should present their college ID cards.","Any team not abiding by the rules of the event will be immediately disqualified."
+				]
+
+	},
+	{
+		"eventid":"61025012",
+		"description":"“It’s the ones who believe they can change the world who end up changing it”, said Steve Jobs once.If you have been coming up with solutions to everyday problems or you think your ideas can bring strides of change, this is your stage to make it big.After all, an idea can change your life. Put the quote “an idea can change the world” to the test as you showcase scientifically brilliant and original ideas in the arena and perhaps lay the foundations for a revolutionary global change!",
+		"name":"Papyrus Of Ani",
+		"image":"papyrus",
+		"eventformat":"Groups of three can participate.\nThe event will consist of three rounds:\n\n\nRound 1:\n\nFirst round is the Online Abstract Submission.\nInterested groups are urged to send in their abstracts as soon as possible.\nAbstracts received late will not be considered.\nThe abstracts received will be verified by a panel and the shortlisted groups will be informed through email. Each team can send in maximum two abstracts.\n\n\nRound 2:\n\nThe shortlisted groups will be required to send in their presentation and report in the IEEE format.\n\n\nRound 3:\n\nThe final round, which will include 10 teams from the tech category and 5 teams from the general category, will be conducted at the venue of Excel 2016. The selected candidates will have to present their paper onstage using Powerpoint front of a panel of judges. The judges will select the winners .The event is spread over two categories namely:\n\n1.Technical:\n\nPapers /Innovative ideas coming under the following fields of study:\na.Electronics and Communication\nb.Electronics and Biomedical\nc.Electrical and Electronics\nd.Computer Science\n\nNon technical:\n\nPapers associated with general developments in the world including any new concept or idea developed by the team . Papers can be from areas:\na. Technologies a core strength of nation?\nb. Human Resources –Heart of any service industry\nc. Tourism and Hospitality\nd. Comparison of tidal energy over solar energy.\ne. Food habits in these day children.\nf. Rain water Harvesting\n\nIdeas/Papers sent by the team must be genuine and Innovative and the event will be spread over two phases:\n\nPhase I:\n\nAn abstract giving complete details of the paper ideas in not more than 600 words is to be sent to poa@excelmec.org from August 20th and before September 15th.\n\nPhase II:\n\nThe teams that are shortlisted after thorough examination of the abstracts will be notified via email and must prepare a powerpoint presentation in MS PowerPoint format . It must have at most 25 slides.The final presentation will be conducted at Excel 2016.Total time allotted is 15 minutes of which, 10 minutes is for presentation and 5 minutes will be allotted for the Q&A session.\nContact Mail: poa@excelmec.org",
+		"contact":[
+						{
+							"name":"Jeshvi T Vinoji",
+							"phone":"8547549758"
+						},
+						{
+							"name":"Gopika S Jayan",
+							"phone":"8547632151"
+						}					],
+		"rules":["\nTeam Formation:\n\n1. A team can have a maximum of 3 members","2. A participant cannot be part of more than one team .","3. It is not necessary that the participants forming a team should be from the same college.","4.There is no restriction in the number of teams from the same college.\n\nGeneral:","1. The work should be original and in the specified format.","2. Students pursuing their graduation and post graduation can participate irrespective of their field of study.","3. A team cannot send in more than 2 abstracts.","4. Word limit of the abstract is 600 words and that of the full paper is 6000 words.","5. The paper should have an Abstract and its first title should necessarily be an Introduction.","6. The last two titles of the paper should necessarily be Conclusion and References.","7. Paper should be incorporated with Figures, Tables, Expressions, Appendix if any.","8. 20% of the total marks will be allotted for format of Report and the rest is for Presentation style as well as the Question and Answer session.","9. The coordinators reserve the right of rejecting any paper following deviation of the paper from the format specified.","The following facilities are provided at Excel 2016:\n\n1. LCD Projector\n2. Microphone\n3. Laptop/Computer"
+				]
+
+	},
+	{
+		"eventid":"61025013",
+		"description":"A battle of the book worms! A hassle for haste and the survival of the wittiest as you flex your brain muscles in this college student exclusive event.",
+		"name":"Tequiz",
+		"image":"techquiz",
+		"eventformat":"ROUND ONE\n\nPrelims: 20 written questions.\n\n\nFINALS\n\nRound One-6 questions(Visual interpretation)\n\nRound Two-6 questions (connect)\n\nRound Three-6 questions (buzzer)\n\nRound Four-1 question,6 categories(Teams get to choose the category).\n\n1 Jackpot question.\n\nQuestions will contain text,audio,video.\n\nMain theme is Information Technology.",
+		"contact":[
+						{
+							"name":"Karthik Krishnan",
+							"phone":"9562480634"
+						},
+						{
+							"name":"Adit Raghunath",
+							"phone":"9020776176"
+						},
+						{
+							"name":"Vimal MV",
+							"phone":"8891391310"
+						}					],
+		"rules":["Students from different colleges are allowed to form a team.","Maximum of 2 members per team.","ID card of college is compulsory."]
+	}
+]
+}

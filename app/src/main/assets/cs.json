@@ -1,0 +1,203 @@
+{
+	"eventlist":[
+	{
+		"eventid":"61021014",
+		"name":"HackMaster",
+		"eventformat":"1. Duration of the event is 2 weeks.\n\n2. Users have to register online on the website.\n\n3. There will be a total of 30 questions\n\n4.  The participant can attempt the same question multiple times.\n\n5. There is no particular order for answering questions.\n\n6. Questions will be of three types and scoring pattern is as follows:\n Easy – 5 points\nMedium – 7 points\nHard - 10 points\n\n7. A live leaderboard will be maintained so that the participant can check his/her standings.",
+		"image":"hackmaster",
+		"description":"“The primary goal of hacking is the intellectual curiosity,the seduction of adventure” What’s life without a certain scandal? What’s power without some mischief? Living at the edge of the law? Be the vigilante that controls the code.",
+		"rules":[
+			"1. This is strictly an individual online event.",
+			"2. The duration of the event is 2 weeks.",
+			"3. Registration is required for participation and there should be no duplicate accounts.",
+			"4. There will be a total of 30 questions.",
+			"5. Different levels will carry different weightage of points according to difficulty.",
+			"6. If any malicious activity like submitting the duplicate code is detected the user account will be deleted without prior notice.",
+			"7. Professionals are NOT allowed to participate.",
+			"8. Attacking or flooding the server will lead to disqualification.",
+			"9. Multiple accounts from a participant are NOT allowed.",
+			"10. Participants suspected of using unfair means WILL BE disqualified.",
+			"11. Any misuse of the Hackmaster forum will lead to immediate disqualification.",
+			"12. The decisions and judgement of the coordinators will be final.",
+			"13. Rules are subject to change at any point in time."	
+		],
+		"contact":[
+				{
+					"name":"Jose Antony",
+					"phone":"9496863403"
+				},
+				{
+					"name":"Chinmay",
+					"phone":"9645735808"
+				}
+		]
+
+	},
+	{
+		"eventid":"61021017",
+		"name":"4 * 120",
+		"image":"coders",
+		"description":"4 people and 120 seconds of synchronous understanding and unrivalled teamwork separate the winners from the others. The best teams that we have encountered have a few things in common :teamwork, impeccable sync, immeasurable confidence in each other and the ability to pick up from where his predecessor left, better his effort and win the title. Time is of essence here and teams not in sync fall apart.",
+		"eventformat":"The event will comprise of two stages.\n\n\nPreliminary Round consists of both objective and subjective type tests. After the preliminary round, eight teams with the highest scores will be selected for the final round.\n\n\nFinal round comprises of 3 questions. The team can skip a question and move on to the next question, but no discussion would be allowed within the team. The decision of the team member is applicable to the whole team.\n\n\nThe team members must decide which order they wish to follow before the final round question has been provided, and will not be allowed to change this order.\n\n\nThe question will be provided to each member only at the start of their time slot, and not before the first member's time slot. Once the question has been provided, each member can code for 3 minutes at the beginning.\n\n\nIn the first 30 minutes, each member can code for 3 mins. In the next 30 mins, the coding time increases to 4 mins. In the next 30 minutes, coding takes place for 5 minutes. In the final 30 minutes, each member gets 2 minutes to code.\n\n\nDuration for the final round is two hours. The teams that get the desired output in the shortest time stand a chance to win the prize money.",
+		"rules":[
+			"1. Each team should have exactly four members.",
+			"2. It is not mandatory that the team members should be from the same college.",
+			"3. Participants will need to know C, C++.",
+			"4. The participants of a team will not be allowed to communicate with one another once.",
+			"5. Use of mobile phones will not be allowed during the event.",
+			"6.  The time received by each participant for coding depends on the cycle (Refer Event Format)",
+			"7.  The team that codes the most optimal solution in the shortest time will be declared as winners.",
+			"8. Programs with least complexity would be given preference.",
+			"9. During the round the teams can contact the coordinators or the volunteers in case of emergency.",
+			"10. Rules are subject to change at any point in time. All rules will be explained at the event.",
+			"11. Decision of the judges will be final."
+		],
+		"contact":[
+			{
+				"name":"Roshan Abhishek",
+				"phone":"9747751724"
+			},
+			{
+				"name":"Ann",
+				"phone":"949574774"
+			}
+		]
+	},
+	{
+		"eventid":"61021016",
+		"name":"Lord of the Code",
+		"image":"lordofcode",
+		"description":"The lines have been drawn, sides have been taken. The war is to begin soon. Crack the most twisted of codes and complex of logics to win the title of the ‘Lord of the Code’.",
+		"eventformat":"Preliminary Round\n\n MCQ round of 30 questions\n\n(Top 14 teams move to the second round)\n\n\nFinal Round\n\nConsists of two rounds running parallel to each other. Half of the teams will solve logical questions while the other half will be coding. At exactly 90 minutes the roles will be switched.\nBoth the rounds will have 2 questions each and the winner will be decided by the most points scored.",
+		"rules":[
+			"1. Each team can have a maximum of two members. Cross - college teams are allowed.",
+			"2. Decision of the judges and organizers will be final.",
+			"3. Final round participants can use C, C++, Java or Python for coding.",
+			"4. Logical questions focus more on better logic and less on completion time.",
+			"5. Coding focuses equally on the completion time and the logic.",
+			"6. Rules are subject to change at any point in time. All rules will be explained at the event."
+		],
+		"contact":[
+			{
+				"name":"Rehana ",
+				"phone":"9539018654"
+			},
+			{
+				"name":"Sarath Sajeev",
+				"phone":"9496913052"
+			}
+		]	
+	},
+	{
+		"eventid":"61021013",
+		"name":"Tech Geek",
+		"image":"techgeek",
+		"description":"For those who want a new challenge everyday, we have just the thing for you!",
+		"eventformat":"This is an online coding event that will enable a programmer to show off his language versatility and his coding skills.This is going to be an event to test how big of a computer geek you are. This event will test skills from coding to debugging, and from to technical knowledge to reverse coding. Tech Geek will consist of a set of tasks and questions to be done in a given amount of tim. There can be only one winner, so the fastest Person to complete the task will be given rewards. The questions will be related to Computer Science.\n\n\nNumber of Levels: 2 \n\n\nEveryday at a fixed time, from 8 to 10 pm, a question or a set of questions will be posted on the tech geek site. The first user to correctly complete the given task will get a 200 Rs worth mobile recharge.\n\n\nA live leaderboard will be maintained so that the participant can check his/her ranking.The program submitted by the participant will be considered correct if it gives the expected output for all test cases",
+		"rules":[
+			"1. This is strictly an individual online event.",
+			"2. The duration of the event is 2 weeks",
+			"3. Registration is required for participation and there should be no duplicate accounts.",
+			"4. There will be a total of 30 questions.",
+			"5. Different levels will carry different weightage of points according to difficulty.",
+			"6. If any malicious activity like submitting the duplicate code is detected the user account will be deleted without prior notice.",
+			"7. Professionals are NOT allowed to participate.",
+			"8. Attacking or flooding the server will lead to disqualification.",
+			"9. Multiple accounts from a participant are NOT allowed.",
+			"10. Participants suspected of using unfair means WILL BE disqualified.",
+			"11. Any misuse of the Hackmaster forum will lead to immediate disqualification.",
+			"12. The decisions and judgement of the coordinators will be final.",
+			"13. Rules are subject to change at any point in time."
+		],
+		"contact":[
+			{
+				"name":"Gopikrishnan Mohan",
+				"phone":"9605104040"
+			},
+			{
+				"name":"Hassan K Salim",
+				"phone":"9847122391"
+			}
+		]
+	},
+	{
+		"eventid":"61021011",
+		"name":"#Include",
+		"image":"include",
+		"description":"Don’t forget your grey cells at home as they may be the only things of any use to you in this grueling code duel. A call to each and every coder out there to prove their programming mettle. Join the war and beat your fellow coders in an all out battle to determine the true champions of the coding arena.",
+		"eventformat":"#include is an individual online competition that will test the language versatility and coding skills.The competition is meant to test the C/C++/Java/Python Programming skills of the students. In this event, there will be 3 levels, and it is based on points. The coder can attempt any questions at any time. The code can be submitted either by uploading an appropriate file or by writing it online.\n\n\n1. Event starts on 1st September 2015 at 8 PM.\n2. Duration of the event is 7 days.\n3. User can register online on the website.\n4. There will be total of 30 questions\n\nQuestions will be of three types and scoring pattern is as follows:\nEasy – 5 points\nMedium – 7 points\nHard - 10 points\n5. The program submitted by the participant will be considered correct if it gives the expected output for all testcases.\n6. A live leaderboard will be maintained so that the participant can check his/her ranking.",
+		"rules":[
+			"1. This is strictly an individual online event.",
+			"2. The duration of the event is 7 days (10080 minutes).",
+			"3. Registration is required for participation and there should be no duplicate accounts.",
+			"4. Codes should be in C/C++/Java/Python v2.7.",
+			"5. There will be a total of 30 questions.",
+			"6. Questions will be of three types and scoring pattern is as follows:\n\nEasy - 5 points,\nMedium - 7 points,\nHard - 10 points",
+			"7. The program submitted by the participant will be considered correct if it gives the expected output for all the test cases.",
+			"8. Participants can compile and test the code before submitting. If it shows 'All sample test cases passed' during testing and still shows 'Wrong Answer' after submission, it is a presentation error. It can be avoided by properly formatting the output.",
+			"9. The ranking is done as follows: \nThe one with the highest score is ranked first.\nIn case if 2 or more persons have the same score, then they are ranked by whoever obtained the total points first",
+			"10. A live points table will be maintained so that the participant can check his/her ranking",
+			"11. If any malicious activity like submitting the duplicate code is detected the user account will be deleted without prior notice.",
+			"12. Rules are subject to change at any point in time."
+		],
+		"contact":[
+			{
+				"name":"Varun",
+				"phone":"9496354840"
+			},
+			{
+				"name":"Jomy",
+				"phone":"9539731809"
+			}
+		]
+	},
+	{
+		"eventid":"61021019",
+		"name":"App Genius",
+		"image":"android",
+		"description":"“I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.” – Bjarne Stroustrup\n\n\nHave you got that spark of creative thinking in you? Then bring your ideas to life.Make your smartphone smarter by creating your own apps.Whether you are an amateur or an expert,put your brains at work and prove you’re an app genius.",
+		"eventformat":"Preliminary Round : \n\nUse your basic knowledge of programming to get through the preliminary round.\n\n\nFinal Round : \n\nTeams must develop an Android application based on the problem statement given after clearing the preliminary round.Apps will be judged based on the progress made at the end of the competition.",		
+		"rules":[
+			"1. This is a team event.",
+			"2. A team can have a maximum of 3 members.",
+			"3. Students from any engineering branch can participate.",
+			"4. The students can use internet for reference but code snippets cannot be copied from websites.",
+			"5. Participants must only develop Android apps. Only mobile apps are to be made.",
+			"6. Systems and devices will not be provided . Candidates should bring their own laptops and devices.",
+			"7. Judges decision is final.",
+			"8. Rules are subject to change at any point in time. All rules will be explained at the event as well.",
+			"9. Organizers reserve the right to take decisions in case of conflicts and issues"
+		],
+		"contact":[
+			{
+				"name":"Jerin",
+				"phone":"8547222661"
+			},
+			{
+				"name":"Ashwin Kailas",
+				"phone":"9746919337"
+			}
+		]
+	},
+	{
+		"eventid":"61021012",
+		"name":"bin bash",
+		"image":"binbash",
+		"description":"will be updated soon",
+		"eventformat":"will be updated soon",
+		"rules":[
+				"Will be updated soon"
+		],
+		"contact":[
+			{
+				"name":"Aishwarya",
+				"phone":"9495747774"
+			},
+			{
+				"name":"Doyle Fermi",
+				"phone":"9400440519"
+			}
+		]
+	}
+	]
+}

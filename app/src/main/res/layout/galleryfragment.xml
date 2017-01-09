@@ -1,0 +1,156 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:coverflow="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+>
+
+
+
+    <it.moondroid.coverflow.components.ui.containers.FeatureCoverFlow
+        android:id="@+id/coverflow"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        coverflow:coverHeight="150dp"
+        coverflow:alignAnimationTime="1000"
+        coverflow:coverWidth="180dp"
+        coverflow:maxScaleFactor="1.5"
+        coverflow:reflectionGap="15px"
+        coverflow:rotationThreshold="0.5"
+        coverflow:scalingThreshold="0.5"
+        coverflow:spacing="0.5"
+        coverflow:circlePathRadiusInMatrixSpace="10"
+        coverflow:maxRotationAngle="90"
+       />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="40dp"
+    android:id="@+id/linear">
+
+    <TextView
+        android:id="@+id/title2"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+      android:layout_marginTop="5dp"
+        android:textSize="25dp"
+        android:textColor="#fff"
+
+        />
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="30dp"
+
+        android:textColor="#fff"
+        android:textSize="14dp"
+
+        />
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#a8000000"
+        android:visibility="gone"
+        android:id="@+id/midlayer">
+    </LinearLayout>
+    <com.getbase.floatingactionbutton.FloatingActionsMenu
+        android:id="@+id/right_labels"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+
+        android:layout_marginLeft="16dp"
+
+        fab:fab_addButtonColorNormal="@color/white"
+        fab:fab_addButtonColorPressed="@color/white_pressed"
+        fab:fab_addButtonPlusIconColor="@color/half_black"
+        fab:fab_addButtonSize="mini"
+        fab:fab_labelStyle="@style/menu_labels_style"
+        fab:fab_labelsPosition="left">
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            fab:fab_colorNormal="@color/white"
+            fab:fab_size="mini"
+            android:id="@+id/gallery"
+            fab:fab_title="choose from gallery"
+            fab:fab_colorPressed="@color/white_pressed"/>
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            fab:fab_colorNormal="@color/white"
+            fab:fab_size="mini"
+            android:id="@+id/camera"
+            fab:fab_title="Take Photo"
+            fab:fab_colorPressed="@color/white_pressed"/>
+    </com.getbase.floatingactionbutton.FloatingActionsMenu>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:background="#92000000"
+        android:gravity="center"
+        android:id="@+id/lineralayer"
+        android:visibility="gone"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="300dp"
+
+            android:orientation="vertical"
+            android:background="@color/tabbg"
+
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+
+                android:id="@+id/images"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="50dp"
+                    android:id="@+id/comment"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_below="@+id/images"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+
+                    android:layout_below="@+id/images"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="40dp"
+                    android:id="@+id/send"
+                    android:text="send"
+
+
+                    />
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

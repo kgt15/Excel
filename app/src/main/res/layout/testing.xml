@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg">
+    <ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        >
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg">
+        <ImageView
+            android:id="@+id/card_view3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/image2"/>
+
+
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_below="@+id/card_view3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:foreground="?attr/selectableItemBackground"
+        card_view:cardCornerRadius="2dp"
+        card_view:cardElevation="5sp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/tabbg">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:padding="5dp"
+                android:background="@color/foreground_news"
+                android:id="@+id/header">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:text="(UN)TITLED: Make Your Own Story"
+            android:textColor="#fff"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/desc"
+                android:layout_below="@+id/header">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:id="@+id/description"
+                android:textSize="15sp"
+                android:padding="8dp"
+                android:textAlignment="center"
+                android:textColor="#3bf0f9"
+                android:text="Like the title, it’s for those wishing to engrave their own story in stone and paint their canvas of success. We delve into the less unchartered territory of the entrepreneurial world, on a quest for knowledge and inspiration. Successful tycoons and ambitious startups, share their secrets of the trade and the story of how they braved the storm under the gruesome and unforgiving weather that is the world of entrepreneurship. Tune in as we bring to you the chance to interact with and learn from the best as they help you realize and title your own voyage"
+                />
+            </LinearLayout>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view2"
+        android:layout_below="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:foreground="?attr/selectableItemBackground"
+        card_view:cardCornerRadius="2dp"
+        card_view:cardElevation="5sp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/tabbg">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:padding="5dp"
+                android:background="@color/foreground_news"
+                android:id="@+id/header2">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="25sp"
+                    android:gravity="center"
+                    android:text="EVENT FORMAT"
+                    android:textColor="#fff"/>
+            </LinearLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/header2"
+                android:textSize="15sp"
+                android:padding="8dp"
+                android:textAlignment="center"
+                android:text="Event is on 17th September 2015\n\n
+The event showcases the talks of 5 well established startups, which once set out to write their own tale of victory down the road less travelled. Stories of how they first walked down the road, what inspired them, their failures, the decisions that changed their journey and their slow climb to success are shared for those who are aspiring to make that very climb.
+\n\nThe event also brings to you, special guests who carved their names in stone as they took on the entrepreneurial world and succeeded. They offer their expert advice on things to watch out for down the road, tips to overcome obstacles and how to keep a positive attitude as you too write your own story. "
+
+                android:textColor="#3bf0f9"
+                />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
+</ScrollView>
+</LinearLayout>
